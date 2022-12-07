@@ -1,0 +1,27 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    padding-top: 120px;
+}
+
+.circle{
+    background: rgb(64, 98, 215);
+    border-radius: 50%;
+    border-style: solid;
+    border-color: rgb(210, 210, 210);
+    border-width: 20px;
+    width: 600px;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#clock {
+    font-size: 75px;
+    color: whitesmoke;
+    width: 400px;
+    margin: 200px;
+    text-align: center;
+}
